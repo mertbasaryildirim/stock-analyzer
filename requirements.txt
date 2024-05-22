@@ -1,0 +1,5 @@
+pandas
+matplotlib
+yfinance
+mplfinance
+python-docx
